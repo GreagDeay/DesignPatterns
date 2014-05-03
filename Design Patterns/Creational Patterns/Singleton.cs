@@ -19,4 +19,5 @@ namespace DesignPatterns.CreationalPatterns
 
         private static Singleton _instance; 
     }
+
 }
